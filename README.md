@@ -201,34 +201,6 @@ Open [01_Random_Linear_Classification.ipynb](01_Random_Linear_Classification.ipy
 
 ---
 
-## Recommended Learning Path
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[01: Classification Basics] --> B[02: Perceptron]
-    B --> C[03: Data Preprocessing]
-    C --> D[04-05: Activation Functions]
-    D --> E[06: Loss Functions]
-    E --> F[07-08: Optimization]
-    F --> G[09-10: Complete Implementation]
-    
-    style A fill:#e1f5ff
-    style G fill:#c8e6c9
-```
-
-</div>
-
-**Suggested Approach:**
-
-1. **Foundations (Notebooks 1-3)** - Understand classification and data preparation
-2. **Activation & Loss (Notebooks 4-6)** - Learn the mathematics behind ML
-3. **Optimization (Notebooks 7-8)** - Master gradient descent
-4. **Advanced (Notebooks 9-10)** - Build complete ML systems
-
----
-
 ## Community & Support
 
 <div align="center">
