@@ -1,17 +1,6 @@
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://vizuara.ai/logo.png" alt="Vizuara" width="200px">
-      </td>
-      <td align="center" width="33%">
-        <h1 style="font-size: 72px; margin: 0;">🎓</h1>
-      </td>
-      <td align="center" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Machine Learning" width="200px">
-      </td>
-    </tr>
-  </table>
+  
+  <img src="https://vizuara.ai/logo.png" alt="Vizuara" width="200px">
 
   <h1>Machine Learning: Teach by Doing</h1>
   
@@ -206,29 +195,6 @@ Open [01_Random_Linear_Classification.ipynb](01_Random_Linear_Classification.ipy
 
 </div>
 
-### Installation
-
-Create a `requirements.txt` file:
-
-```txt
-numpy
-matplotlib
-plotly
-scikit-learn
-scipy
-seaborn
-pandas
-jupyter
-```
-
-Then install:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Dataset Information
 
 - **logistic_regression_data.csv** - Used in Notebook 10 for demonstrating regularization techniques with complex decision boundaries
@@ -260,31 +226,6 @@ graph TD
 2. **Activation & Loss (Notebooks 4-6)** - Learn the mathematics behind ML
 3. **Optimization (Notebooks 7-8)** - Master gradient descent
 4. **Advanced (Notebooks 9-10)** - Build complete ML systems
-
----
-
-## What Makes This Series Special?
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>Visual Learning</h3>
-      <p>Every concept explained with interactive plots and animations</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>From Scratch</h3>
-      <p>Implement algorithms without black-box libraries</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>Video Support</h3>
-      <p>Watch detailed explanations on YouTube</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>Real Examples</h3>
-      <p>Practical applications with real datasets</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
